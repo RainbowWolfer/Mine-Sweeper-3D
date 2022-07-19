@@ -116,7 +116,7 @@ namespace MineSweeper3D.GameUI {
 				EnableFPS = !EnableFPS;
 			};
 			githubButton.action = () => {
-				Application.OpenURL("https://github.com/RainbowWolfer/Mine-Sweeper");
+				Application.OpenURL("https://github.com/RainbowWolfer/Mine-Sweeper-3D");
 			};
 		}
 
